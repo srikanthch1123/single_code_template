@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\demointernal"
+		},
+		{
+			"name": "demomultienvdynamic",
+			"path": "..\\..\\..\\..\\demomultienvdynamic\\demomultienvdynamic"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Desktop\\test"
+		},
+		{
+			"path": "..\\..\\.."
+		}
+	],
+	"settings": {}
+}
